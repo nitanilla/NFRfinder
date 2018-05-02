@@ -4,7 +4,8 @@ Discovering qualities (NFR) on requirements specifications and free texts
 ## History
 Research in progress to discover possible user needs in the big data.
 
-####Publications using the artifacts of this repository
+Publications using the artifacts of this repository:
+
 [Descobrindo Projetos de Lei relacionados a Transparência](http://wtrans.inf.puc-rio.br/WTRANSartigos/artigos/artigos_WTRANS16/WTranS_2016_paper_3.pdf)
 
 [Existe uma Demanda de Transparência? Análise de comentários à Projetos de Lei](http://wtrans.inf.puc-rio.br/WTRANSartigos/artigos/artigos_WTRANS17/167857.pdf)
